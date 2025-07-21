@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FondTech/static/css/main.f855e6bc.css",
-    "main.js": "/FondTech/static/js/main.92045172.js",
+    "main.js": "/FondTech/static/js/main.f0b6388f.js",
     "static/js/453.d06b439e.chunk.js": "/FondTech/static/js/453.d06b439e.chunk.js",
     "static/media/Industrial_lab.jpg": "/FondTech/static/media/Industrial_lab.0e13e07004b7da77777e.jpg",
     "static/media/healthcare_tech.jpg": "/FondTech/static/media/healthcare_tech.2b90811f79527d0cb9d7.jpg",
@@ -26,11 +26,11 @@
     "static/media/team.jpg": "/FondTech/static/media/team.b2f813e86e919d6668fb.jpg",
     "index.html": "/FondTech/index.html",
     "main.f855e6bc.css.map": "/FondTech/static/css/main.f855e6bc.css.map",
-    "main.92045172.js.map": "/FondTech/static/js/main.92045172.js.map",
+    "main.f0b6388f.js.map": "/FondTech/static/js/main.f0b6388f.js.map",
     "453.d06b439e.chunk.js.map": "/FondTech/static/js/453.d06b439e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.92045172.js"
+    "static/js/main.f0b6388f.js"
   ]
 }
