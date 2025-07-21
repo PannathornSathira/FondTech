@@ -267,7 +267,7 @@ export default function FondTechHome() {
               <div className="rounded-xl overflow-hidden shadow-2xl">
                 <img
                   src={fondtech_exp}
-                  alt="Fondtech Experience"
+                  alt="Fondtech Experiences"
                   className="w-full h-96 object-cover"
                 />
               </div>
