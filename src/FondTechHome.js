@@ -31,7 +31,7 @@ export default function FondTechHome() {
       services: [
         {
           id: 1,
-          title: "Biotech Innovation",
+          title: "Biotech Innovations",
           description: "Next-generation software and hardware development",
           icon: "🧬",
           details:
