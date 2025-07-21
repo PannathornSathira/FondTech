@@ -14,7 +14,7 @@ export default function OEMServices() {
       category: "Lab Equipment",
     },
     {
-      name: "Air Purifier",
+      name: "Air Purifiers",
       info: "Customizable air purification systems with advanced filtration",
       image: air_purifier,
       category: "Electronics",
